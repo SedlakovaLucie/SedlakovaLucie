@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SedlakovaLucie.SedlakovaLucie" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=37&center=true&color=44426e&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Lucie+Sedláková;+Junior+Front-end+developer👩‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=37&center=true&color=44426e&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Lucie+Jagošová;+Front-end+developer👩‍💻;" />
 </h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
