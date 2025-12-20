@@ -10,13 +10,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=37&center=true&color=FFC300&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Lucie;+Front-end+Developer;" />
 </h1>
 
-<h3 align="center">Tech Stack ⚡</h3>
+<h2 align="center">⚡ Tech Stack ⚡</h2>
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/react/333333" width="40" style="margin-right:10px;" />
   <img src="https://cdn.simpleicons.org/typescript/333333" width="40" style="margin-right:10px;" />
   <img src="https://cdn.simpleicons.org/html5/333333" width="40" style="margin-right:10px;" />
-  <img src="https://cdn.simpleicons.org/css3/333333" width="40" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/css/333333" width="40" style="margin-right:10px;" />
   <img src="https://cdn.simpleicons.org/sass/333333" width="40" style="margin-right:10px;" />
   <img src="https://cdn.simpleicons.org/bootstrap/333333" width="40" style="margin-right:10px;" />
   <img src="https://cdn.simpleicons.org/figma/333333" width="40" style="margin-right:10px;" />
@@ -24,6 +24,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=24&center=true&color=333333&vCenter=true&width=300&height=40&duration=2500&lines=Loading..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=18&center=true&color=333333&vCenter=true&width=300&height=40&duration=2500&lines=Loading..." />
 </p>
 
