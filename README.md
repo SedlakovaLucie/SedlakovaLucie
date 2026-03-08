@@ -1,6 +1,4 @@
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SedlakovaLucie.SedlakovaLucie" />
-  <br/>
   <a href="https://luciejagosova.cz" target="_blank">
     <img src="https://img.shields.io/badge/luciejagosova.cz-FFC300?style=flat" />
   </a>
