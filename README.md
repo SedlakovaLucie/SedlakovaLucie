@@ -4,6 +4,10 @@
   <a href="https://luciejagosova.cz" target="_blank">
     <img src="https://img.shields.io/badge/luciejagosova.cz-FFC300?style=flat" />
   </a>
+  <br/>
+  <a href="https://investmentcalculator.cz" target="_blank">
+    <img src="https://img.shields.io/badge/investmentcalculator.cz-E0F54A?style=flat" />
+  </a>
 </p>
 
 <h1 align="center">
